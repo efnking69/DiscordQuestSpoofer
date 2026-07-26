@@ -7,7 +7,7 @@ Discord QuestSpoofer script to complete quests and claim rewards using DOM video
 > Using self-scripts is against Discord's Terms of Service and can get your account flagged. Use at your own risk.
 
 > [!NOTE]
-> This script **ONLY** works on the **Discord Desktop App**. It will not work in a browser.
+> Works fully on **Discord Desktop App**. Web browsers support **Videos**, **Activities**, and **Auto-Claiming**—**Desktop App** is strictly required for **Games** and **Streams**.
 
 Created by **eelaska.sys** (`efnking69`)
 
