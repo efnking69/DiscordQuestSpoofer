@@ -3,7 +3,7 @@
 Discord QuestSpoofer script to complete quests and claim rewards using DOM video acceleration and API timestamp spoofing for video tasks, `RunningGameStore` process ID/executable hooking for desktop games, `ApplicationStreamingStore` metadata injection for streams, and `FluxDispatcher` heartbeat events for activities.
 
 > [!CAUTION]
-> As of April 7th, 2026, Discord has expressed their intent to crack down on automating quest completion.
+> As of April 7th, 2026, Discord has expressed their intent to crack down on automating quest completion. Though i have implemented alot of anti-flag bypasses which work very well even though other projects like Completediscordquest by aamia does not use any anti-flag bypasses and is still pretty undetected.
 > Using self-scripts is against Discord's Terms of Service and can get your account flagged. Use at your own risk.
 
 > [!NOTE]
@@ -15,9 +15,16 @@ Created by **eelaska.sys** (`efnking69`)
 
 ## Menu Preview
 
-![Debug Tab](https://ibb.co/QjdYVq61)
-![Quests Tab](https://ibb.co/ycytcsnL)
-![Notification System](https://ibb.co/j9zVzJFY)
+<p align="center">
+  <b>Quests Tab</b><br>
+  <img src="https://i.ibb.co/nqjJ5GGh/image.png" alt="Quests Tab" width="100%">
+  <br><br>
+  <b>Settings Tab</b><br>
+  <img src="https://i.ibb.co/RGL8XzPT/image.png" alt="Settings Tab" width="100%">
+  <br><br>
+  <b>Debug Tab</b><br>
+  <img src="https://i.ibb.co/ycpHBz4f/image.png" alt="Debug Tab" width="100%">
+</p>
 
 ---
 
